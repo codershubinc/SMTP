@@ -1,1 +1,1 @@
-console.log("Hello to SMTP!");
+console.log("Hello to SMTP with Bun");
